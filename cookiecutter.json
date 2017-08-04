@@ -1,0 +1,6 @@
+{
+  "workspace_name": "",
+  "project_name": "",
+  "spider_name": "",
+  "spider_class": "{{ cookiecutter.spider_name.capitalize() + 'Spider' }}"
+}
