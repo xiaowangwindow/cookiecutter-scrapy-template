@@ -1,0 +1,8 @@
+version: "3"
+services:
+    scrapy-webpage:
+        container_name: {{cookiecutter.project_name}}
+        image: {{cookiecutter.project_name}}:release
+        build: ./
+        volumes:
+            - .:/usr/src/app

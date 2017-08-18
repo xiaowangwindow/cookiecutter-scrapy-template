@@ -1,0 +1,10 @@
+Fabric==1.13.1
+pymongo==3.4.0
+redis==2.10.5
+Scrapy==1.4.0
+setuptools==36.2.0
+tldextract==2.0.2
+Twisted==17.5.0
+txmongo==16.3.0
+typing==3.6.1
+beautifulsoup4==4.6.0
